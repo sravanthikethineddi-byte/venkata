@@ -1,0 +1,60 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.2.2">
+  <diagram name="Page-1" id="GDH3-00Neh4PhVQAPevt">
+    <mxGraphModel dx="1895" dy="1022" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="CI19cb-v6Tt4adQKwHcX-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CI19cb-v6Tt4adQKwHcX-10" target="CI19cb-v6Tt4adQKwHcX-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CI19cb-v6Tt4adQKwHcX-10" value="Plan" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="430" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CI19cb-v6Tt4adQKwHcX-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CI19cb-v6Tt4adQKwHcX-11" target="CI19cb-v6Tt4adQKwHcX-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CI19cb-v6Tt4adQKwHcX-11" value="Develop" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="590" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CI19cb-v6Tt4adQKwHcX-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CI19cb-v6Tt4adQKwHcX-13" target="CI19cb-v6Tt4adQKwHcX-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CI19cb-v6Tt4adQKwHcX-13" value="build" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="750" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CI19cb-v6Tt4adQKwHcX-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CI19cb-v6Tt4adQKwHcX-15" target="CI19cb-v6Tt4adQKwHcX-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CI19cb-v6Tt4adQKwHcX-15" value="test" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="910" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CI19cb-v6Tt4adQKwHcX-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CI19cb-v6Tt4adQKwHcX-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="600" y="1230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CI19cb-v6Tt4adQKwHcX-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CI19cb-v6Tt4adQKwHcX-17" target="CI19cb-v6Tt4adQKwHcX-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CI19cb-v6Tt4adQKwHcX-17" value="release" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="1070" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CI19cb-v6Tt4adQKwHcX-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CI19cb-v6Tt4adQKwHcX-22" target="CI19cb-v6Tt4adQKwHcX-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CI19cb-v6Tt4adQKwHcX-22" value="Deploy" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="1230" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CI19cb-v6Tt4adQKwHcX-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CI19cb-v6Tt4adQKwHcX-28" target="CI19cb-v6Tt4adQKwHcX-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CI19cb-v6Tt4adQKwHcX-28" value="Operate" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="1390" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CI19cb-v6Tt4adQKwHcX-30" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="1550" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
